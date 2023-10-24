@@ -1,6 +1,6 @@
 # swpb_dwbc
 
-Repository to be used for public sharing of code for a presently in-progress manuscript. 
+*Repository to be used for public sharing of code for a presently in-progress manuscript.* 
 
 ### Contact:
 Mitchell Chandler  
